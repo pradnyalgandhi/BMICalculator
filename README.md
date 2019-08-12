@@ -2,7 +2,8 @@
 
 BMI Calculator is used to calculate Body and Mass Index of a user by taking inputs from the user.
 The variables like height and weight can be inserted using scrolling bars and button on the User Interface.
-![](https://github.com/pradnyalgandhi/BMICalculator/blob/master/lib/Images/main(2).png)
+
+![](https://github.com/pradnyalgandhi/BMICalculator/blob/master/lib/Images/main%20(2).png)
 
 The application also places your BMI into 3 categories:
 * Overweight
