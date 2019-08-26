@@ -54,7 +54,7 @@ class ResultsPage extends StatelessWidget {
                     ],
                   ),
                 )),
-            Calculator(buttonTitle: 'EXCERCISES',onPress:(){ Navigator.push(context,
+            Calculator(buttonTitle: 'EXCERCISES & TIPS',onPress:(){ Navigator.push(context,
             MaterialPageRoute(builder: (context) => Excercises()));},),
             Calculator(buttonTitle: 'RE-CALCULATE',onPress: (){
               Navigator.pop(context);
